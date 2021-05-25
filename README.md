@@ -1,2 +1,2 @@
-20191293 Yi-Jeongan
-Kookmin Univ .SW
+20191293	Yi-Jeongan
+
